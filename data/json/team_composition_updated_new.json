@@ -1,0 +1,3337 @@
+[
+  {
+    "Match_No": "1007655",
+    "Year": 2016,
+    "Opponent": "Zimbabwe",
+    "Team_Rank": 11,
+    "Venue": "Harare Sports Club",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Batsman": 2,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1007657",
+    "Year": 2016,
+    "Opponent": "Zimbabwe",
+    "Team_Rank": 11,
+    "Venue": "Harare Sports Club",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Batsman": 2,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1007659",
+    "Year": 2016,
+    "Opponent": "Zimbabwe",
+    "Team_Rank": 11,
+    "Venue": "Harare Sports Club",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Batsman": 2,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1034825",
+    "Year": 2017,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Green Park",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1034827",
+    "Year": 2017,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1034829",
+    "Year": 2017,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "M Chinnaswamy Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Pacer": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1041615",
+    "Year": 2016,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Central Broward Regional Park Stadium Turf Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Bowling Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1041617",
+    "Year": 2016,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Central Broward Regional Park Stadium Turf Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1098211",
+    "Year": 2017,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Sabina Park, Kingston",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1109610",
+    "Year": 2017,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "R.Premadasa Stadium, Khettarama",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1119501",
+    "Year": 2017,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "JSCA International Stadium Complex",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Spinner": 1,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1119502",
+    "Year": 2017,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Barsapara Cricket Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Spinner": 1,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1119543",
+    "Year": 2018,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Old Trafford",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1119544",
+    "Year": 2018,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Sophia Gardens",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1119545",
+    "Year": 2018,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "County Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1120093",
+    "Year": 2017,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Arun Jaitley Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1120094",
+    "Year": 2017,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Saurashtra Cricket Association Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1120095",
+    "Year": 2017,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Greenfield International Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1122285",
+    "Year": 2018,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "The Wanderers Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1122286",
+    "Year": 2018,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "SuperSport Park",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 2,
+      "Spinner": 1,
+      "Bowling Allrounder Pacer": 1
+    }
+  },
+  {
+    "Match_No": "1122287",
+    "Year": 2018,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Newlands",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Bowling Allrounder Pacer": 1
+    }
+  },
+  {
+    "Match_No": "1122729",
+    "Year": 2017,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Barabati Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Pacer": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1122730",
+    "Year": 2017,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Holkar Cricket Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Pacer": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1122731",
+    "Year": 2017,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Wankhede Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1133817",
+    "Year": 2018,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "R.Premadasa Stadium, Khettarama",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Pacer": 1,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1133818",
+    "Year": 2018,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "R.Premadasa Stadium, Khettarama",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Pacer": 1,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1133820",
+    "Year": 2018,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "R.Premadasa Stadium, Khettarama",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Pacer": 1,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1133821",
+    "Year": 2018,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "R.Premadasa Stadium, Khettarama",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1,
+      "Pacer": 1
+    }
+  },
+  {
+    "Match_No": "1133823",
+    "Year": 2018,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "R.Premadasa Stadium, Khettarama",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1,
+      "Pacer": 1
+    }
+  },
+  {
+    "Match_No": "1140992",
+    "Year": 2018,
+    "Opponent": "Ireland",
+    "Team_Rank": 12,
+    "Venue": "The Village, Malahide",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1140993",
+    "Year": 2018,
+    "Opponent": "Ireland",
+    "Team_Rank": 12,
+    "Venue": "The Village, Malahide",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 4,
+      "Batting Allrounder Pacer": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1144990",
+    "Year": 2018,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Brisbane Cricket Ground, Woolloongabba",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1144991",
+    "Year": 2018,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Melbourne Cricket Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1144992",
+    "Year": 2018,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Sydney Cricket Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1153696",
+    "Year": 2019,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Westpac Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 2,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1153697",
+    "Year": 2019,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Eden Park",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Pacer": 2,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1153698",
+    "Year": 2019,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Seddon Park",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 2,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1157759",
+    "Year": 2018,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Eden Gardens",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1157760",
+    "Year": 2018,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1157761",
+    "Year": 2018,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "MA Chidambaram Stadium, Chepauk",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2,
+      "Bowling Allrounder Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1168247",
+    "Year": 2019,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Wicketkeeper": 4,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1168248",
+    "Year": 2019,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "M.Chinnaswamy Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 4,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1187005",
+    "Year": 2019,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1187006",
+    "Year": 2019,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "M.Chinnaswamy Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1187013",
+    "Year": 2019,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "Arun Jaitley Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Spinner": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1187014",
+    "Year": 2019,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "Saurashtra Cricket Association Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Spinner": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1187015",
+    "Year": 2019,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1187018",
+    "Year": 2019,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Rajiv Gandhi International Stadium, Uppal",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1187019",
+    "Year": 2019,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Greenfield International Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1187020",
+    "Year": 2019,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Wankhede Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1187677",
+    "Year": 2020,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Eden Park",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1187678",
+    "Year": 2020,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Eden Park",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1187679",
+    "Year": 2020,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Seddon Park",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1187680",
+    "Year": 2020,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Westpac Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1187681",
+    "Year": 2020,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Bay Oval",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1188621",
+    "Year": 2019,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Central Broward Regional Park Stadium Turf Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1188622",
+    "Year": 2019,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Central Broward Regional Park Stadium Turf Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1188623",
+    "Year": 2019,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Providence Stadium, Guyana",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1202243",
+    "Year": 2020,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Holkar Cricket Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1202244",
+    "Year": 2020,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Maharashtra Cricket Association Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 4,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1223952",
+    "Year": 2020,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Manuka Oval",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1223953",
+    "Year": 2020,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Sydney Cricket Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1223954",
+    "Year": 2020,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Sydney Cricket Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1243388",
+    "Year": 2021,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Narendra Modi Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1243389",
+    "Year": 2021,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Narendra Modi Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 3,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 1,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1243390",
+    "Year": 2021,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Narendra Modi Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 1,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1243391",
+    "Year": 2021,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Narendra Modi Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 1,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1243392",
+    "Year": 2021,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Narendra Modi Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1262758",
+    "Year": 2021,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "R Premadasa Stadium, Colombo",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1262759",
+    "Year": 2021,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "R Premadasa Stadium, Colombo",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Pacer": 3,
+      "Spinner": 3
+    }
+  },
+  {
+    "Match_No": "1262760",
+    "Year": 2021,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "R Premadasa Stadium, Colombo",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Pacer": 3,
+      "Spinner": 3
+    }
+  },
+  {
+    "Match_No": "1273727",
+    "Year": 2021,
+    "Opponent": "Pakistan",
+    "Team_Rank": 7,
+    "Venue": "Dubai International Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Bowling Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1273739",
+    "Year": 2021,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Dubai International Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 3,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1273748",
+    "Year": 2021,
+    "Opponent": "Scotland",
+    "Team_Rank": 13,
+    "Venue": "Dubai International Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1273753",
+    "Year": 2021,
+    "Opponent": "Namibia",
+    "Team_Rank": 15,
+    "Venue": "Dubai International Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1276904",
+    "Year": 2022,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "The Rose Bowl, Southampton",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1276905",
+    "Year": 2022,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Edgbaston, Birmingham",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1276906",
+    "Year": 2022,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Trent Bridge, Nottingham",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1278671",
+    "Year": 2021,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Sawai Mansingh Stadium, Jaipur",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1278672",
+    "Year": 2021,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "JSCA International Stadium Complex, Ranchi",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1278673",
+    "Year": 2021,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Eden Gardens, Kolkata",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1278679",
+    "Year": 2022,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Eden Gardens, Kolkata",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 3,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1278680",
+    "Year": 2022,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Eden Gardens, Kolkata",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 3,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1278681",
+    "Year": 2022,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Eden Gardens, Kolkata",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1278684",
+    "Year": 2022,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Wicketkeeper": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1278685",
+    "Year": 2022,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Wicketkeeper": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1278686",
+    "Year": 2022,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batsman": 2,
+      "Batting Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1278687",
+    "Year": 2022,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Arun Jaitley Stadium, Delhi",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 3,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1278688",
+    "Year": 2022,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Barabati Stadium, Cuttack",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1278689",
+    "Year": 2022,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1278690",
+    "Year": 2022,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Saurashtra Cricket Association Stadium, Rajkot",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Wicketkeeper": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1278691",
+    "Year": 2022,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "M Chinnaswamy Stadium, Bangalore",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 3,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1298150",
+    "Year": 2022,
+    "Opponent": "Pakistan",
+    "Team_Rank": 7,
+    "Venue": "Melbourne Cricket Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Bowling Allrounder Spinner": 2,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1298157",
+    "Year": 2022,
+    "Opponent": "Netherlands",
+    "Team_Rank": 14,
+    "Venue": "Sydney Cricket Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Bowling Allrounder Spinner": 2,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1298164",
+    "Year": 2022,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Perth Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1298169",
+    "Year": 2022,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "Adelaide Oval",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1298176",
+    "Year": 2022,
+    "Opponent": "Zimbabwe",
+    "Team_Rank": 11,
+    "Venue": "Melbourne Cricket Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1298178",
+    "Year": 2022,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Adelaide Oval",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1303307",
+    "Year": 2022,
+    "Opponent": "Ireland",
+    "Team_Rank": 12,
+    "Venue": "The Village, Malahide, Dublin",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batting Allrounder Spinner": 1,
+      "Wicketkeeper": 2,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1303308",
+    "Year": 2022,
+    "Opponent": "Ireland",
+    "Team_Rank": 12,
+    "Venue": "The Village, Malahide, Dublin",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 3,
+      "Batting Allrounder Spinner": 1,
+      "Batsman": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1317903",
+    "Year": 2022,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Brian Lara Stadium, Tarouba, Trinidad",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1317904",
+    "Year": 2022,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Warner Park, Basseterre, St Kitts",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1317905",
+    "Year": 2022,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Warner Park, Basseterre, St Kitts",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1317906",
+    "Year": 2022,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Central Broward Regional Park Stadium Turf Ground, Lauderhill",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 2,
+      "Batting Allrounder Spinner": 1,
+      "Wicketkeeper": 3,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1317907",
+    "Year": 2022,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Central Broward Regional Park Stadium Turf Ground, Lauderhill",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 3,
+      "Batsman": 1,
+      "Batting Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1322276",
+    "Year": 2022,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Bay Oval, Mount Maunganui",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1322277",
+    "Year": 2022,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "McLean Park, Napier",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 4,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1327270",
+    "Year": 2022,
+    "Opponent": "Pakistan",
+    "Team_Rank": 7,
+    "Venue": "Dubai International Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1327272",
+    "Year": 2022,
+    "Opponent": "Hong Kong",
+    "Team_Rank": 23,
+    "Venue": "Dubai International Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 3,
+      "Batsman": 3,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1327276",
+    "Year": 2022,
+    "Opponent": "Pakistan",
+    "Team_Rank": 7,
+    "Venue": "Dubai International Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1327277",
+    "Year": 2022,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Dubai International Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1327503",
+    "Year": 2022,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1327504",
+    "Year": 2022,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Vidarbha Cricket Association Stadium, Jamtha, Nagpur",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 3,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1327505",
+    "Year": 2022,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1327506",
+    "Year": 2022,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Greenfield International Stadium, Thiruvananthapuram",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 3,
+      "Batsman": 3,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1327507",
+    "Year": 2022,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Barsapara Cricket Stadium, Guwahati",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 3,
+      "Batsman": 3,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1327508",
+    "Year": 2022,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Holkar Cricket Stadium, Indore",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 4
+    }
+  },
+  {
+    "Match_No": "1348640",
+    "Year": 2023,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Wankhede Stadium, Mumbai",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1348641",
+    "Year": 2023,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Maharashtra Cricket Association Stadium, Pune",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1348642",
+    "Year": 2023,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Saurashtra Cricket Association Stadium, Rajkot",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1348649",
+    "Year": 2023,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "JSCA International Stadium Complex, Ranchi",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1348650",
+    "Year": 2023,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1348651",
+    "Year": 2023,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Narendra Modi Stadium, Ahmedabad",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1381217",
+    "Year": 2023,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Brian Lara Stadium, Tarouba, Trinidad",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1381218",
+    "Year": 2023,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Providence Stadium, Guyana",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1381219",
+    "Year": 2023,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Providence Stadium, Guyana",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1381220",
+    "Year": 2023,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Central Broward Regional Park Stadium Turf Ground, Lauderhill",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1381221",
+    "Year": 2023,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Central Broward Regional Park Stadium Turf Ground, Lauderhill",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1384634",
+    "Year": 2023,
+    "Opponent": "Ireland",
+    "Team_Rank": 12,
+    "Venue": "Malahide, Dublin",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1384637",
+    "Year": 2023,
+    "Opponent": "Ireland",
+    "Team_Rank": 12,
+    "Venue": "Malahide, Dublin",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1387598",
+    "Year": 2023,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "St George's Park, Gqeberha",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1387599",
+    "Year": 2023,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "The Wanderers Stadium, Johannesburg",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1389391",
+    "Year": 2023,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1389392",
+    "Year": 2023,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Greenfield International Stadium, Thiruvananthapuram",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1389393",
+    "Year": 2023,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Barsapara Cricket Stadium, Guwahati",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1389394",
+    "Year": 2023,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1389395",
+    "Year": 2023,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "M Chinnaswamy Stadium, Bengaluru",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1399113",
+    "Year": 2023,
+    "Opponent": "Nepal",
+    "Team_Rank": 17,
+    "Venue": "Zhejiang University of Technology Cricket Field",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Spinner": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1399117",
+    "Year": 2023,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "Zhejiang University of Technology Cricket Field",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Spinner": 2,
+      "Pacer": 1
+    }
+  },
+  {
+    "Match_No": "1415708",
+    "Year": 2024,
+    "Opponent": "Ireland",
+    "Team_Rank": 12,
+    "Venue": "Nassau County International Cricket Stadium, New York",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1415719",
+    "Year": 2024,
+    "Opponent": "Pakistan",
+    "Team_Rank": 7,
+    "Venue": "Nassau County International Cricket Stadium, New York",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Batting Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1415725",
+    "Year": 2024,
+    "Opponent": "United States of America",
+    "Team_Rank": 18,
+    "Venue": "Nassau County International Cricket Stadium, New York",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1415747",
+    "Year": 2024,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "Sir Vivian Richards Stadium, North Sound, Antigua",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1415751",
+    "Year": 2024,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1415754",
+    "Year": 2024,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Providence Stadium, Guyana",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Batting Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1415755",
+    "Year": 2024,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Kensington Oval, Bridgetown, Barbados",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Batting Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1420223",
+    "Year": 2024,
+    "Opponent": "Zimbabwe",
+    "Team_Rank": 11,
+    "Venue": "Harare Sports Club",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batting Allrounder Spinner": 2,
+      "Batsman": 3,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "1420224",
+    "Year": 2024,
+    "Opponent": "Zimbabwe",
+    "Team_Rank": 11,
+    "Venue": "Harare Sports Club",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Spinner": 2,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1420225",
+    "Year": 2024,
+    "Opponent": "Zimbabwe",
+    "Team_Rank": 11,
+    "Venue": "Harare Sports Club",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Spinner": 2,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1420226",
+    "Year": 2024,
+    "Opponent": "Zimbabwe",
+    "Team_Rank": 11,
+    "Venue": "Harare Sports Club",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Spinner": 2,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1420227",
+    "Year": 2024,
+    "Opponent": "Zimbabwe",
+    "Team_Rank": 11,
+    "Venue": "Harare Sports Club",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Batting Allrounder Spinner": 3,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1439893",
+    "Year": 2024,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "Shrimant Madhavrao Scindia Cricket Stadium, Gwalior",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 2,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1439894",
+    "Year": 2024,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "Arun Jaitley Stadium, Delhi",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 2,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1439895",
+    "Year": 2024,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 2,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 2,
+      "Pacer": 1
+    }
+  },
+  {
+    "Match_No": "1439899",
+    "Year": 2025,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Eden Gardens, Kolkata",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 2,
+      "Pacer": 1
+    }
+  },
+  {
+    "Match_No": "1439900",
+    "Year": 2025,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batting Allrounder Spinner": 1,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 1,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1439901",
+    "Year": 2025,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Saurashtra Cricket Association Stadium, Rajkot",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 2,
+      "Batting Allrounder Spinner": 1,
+      "Batsman": 2,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 1,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1439902",
+    "Year": 2025,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Maharashtra Cricket Association Stadium, Pune",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1439903",
+    "Year": 2025,
+    "Opponent": "England",
+    "Team_Rank": 3,
+    "Venue": "Wankhede Stadium, Mumbai",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 2,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 1,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1442987",
+    "Year": 2024,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Pallekele International Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1442988",
+    "Year": 2024,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Pallekele International Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 3,
+      "Wicketkeeper": 2,
+      "Batting Allrounder Pacer": 1,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 1
+    }
+  },
+  {
+    "Match_No": "1442989",
+    "Year": 2024,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Pallekele International Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 2,
+      "Bowling Allrounder Spinner": 1,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "1449301",
+    "Year": 2024,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Kingsmead, Durban",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Batsman": 3,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1449302",
+    "Year": 2024,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "St George's Park, Gqeberha",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Batsman": 3,
+      "Bowling Allrounder Spinner": 1,
+      "Batting Allrounder Pacer": 1,
+      "Pacer": 2,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1449303",
+    "Year": 2024,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "SuperSport Park, Centurion",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Batsman": 4,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 1,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "1449304",
+    "Year": 2024,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "The Wanderers Stadium, Johannesburg",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Wicketkeeper": 1,
+      "Batting Allrounder Spinner": 1,
+      "Batsman": 4,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 1,
+      "Spinner": 2
+    }
+  },
+  {
+    "Match_No": "885969",
+    "Year": 2015,
+    "Opponent": "Zimbabwe",
+    "Team_Rank": 11,
+    "Venue": "Harare Sports Club",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Spinner": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "885971",
+    "Year": 2015,
+    "Opponent": "Zimbabwe",
+    "Team_Rank": 11,
+    "Venue": "Harare Sports Club",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 4,
+      "Batting Allrounder Spinner": 1,
+      "Bowling Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 1,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "895817",
+    "Year": 2016,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Adelaide Oval",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "895819",
+    "Year": 2016,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Melbourne Cricket Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "895821",
+    "Year": 2016,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Sydney Cricket Ground",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "903587",
+    "Year": 2015,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Himachal Pradesh Cricket Association Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 3
+    }
+  },
+  {
+    "Match_No": "903589",
+    "Year": 2015,
+    "Opponent": "South Africa",
+    "Team_Rank": 6,
+    "Venue": "Barabati Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Spinner": 1,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "951329",
+    "Year": 2016,
+    "Opponent": "New Zealand",
+    "Team_Rank": 4,
+    "Venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "951341",
+    "Year": 2016,
+    "Opponent": "Pakistan",
+    "Team_Rank": 7,
+    "Venue": "Eden Gardens",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "951353",
+    "Year": 2016,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "M Chinnaswamy Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "951363",
+    "Year": 2016,
+    "Opponent": "Australia",
+    "Team_Rank": 2,
+    "Venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "951371",
+    "Year": 2016,
+    "Opponent": "West Indies",
+    "Team_Rank": 5,
+    "Venue": "Wankhede Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "963697",
+    "Year": 2016,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Maharashtra Cricket Association Stadium",
+    "HomeAway": "Home",
+    "Pitch_Type": "Pace",
+    "Result": "Loss",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "963699",
+    "Year": 2016,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "JSCA International Stadium Complex",
+    "HomeAway": "Home",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "963701",
+    "Year": 2016,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "966745",
+    "Year": 2016,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "Shere Bangla National Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "966751",
+    "Year": 2016,
+    "Opponent": "Pakistan",
+    "Team_Rank": 7,
+    "Venue": "Shere Bangla National Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "966757",
+    "Year": 2016,
+    "Opponent": "Sri Lanka",
+    "Team_Rank": 8,
+    "Venue": "Shere Bangla National Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "966761",
+    "Year": 2016,
+    "Opponent": "United Arab Emirates",
+    "Team_Rank": 16,
+    "Venue": "Shere Bangla National Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Batting Allrounder Pacer": 1,
+      "Wicketkeeper": 1,
+      "Spinner": 2,
+      "Pacer": 2
+    }
+  },
+  {
+    "Match_No": "966765",
+    "Year": 2016,
+    "Opponent": "Bangladesh",
+    "Team_Rank": 9,
+    "Venue": "Shere Bangla National Stadium",
+    "HomeAway": "Away",
+    "Pitch_Type": "Spin",
+    "Result": "Win",
+    "Team_Composition": {
+      "Batsman": 5,
+      "Wicketkeeper": 1,
+      "Batting Allrounder Pacer": 1,
+      "Bowling Allrounder Spinner": 2,
+      "Pacer": 2
+    }
+  }
+]
